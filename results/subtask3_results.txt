@@ -1,0 +1,14 @@
+Innovators — DravidianCodeMix 2026
+Subtask 3: Kannada Hate Speech
+
+Training samples: 3040
+Validation samples: 500
+Class 0: 1687
+Class 1: 1353
+Encoder: FacebookAI/xlm-roberta-base
+
+Best validation Accuracy: 0.7480
+Best validation Macro-F1: 0.7407
+
+Official Macro-F1: 0.7652
+Official rank: 3

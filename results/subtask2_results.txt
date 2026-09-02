@@ -1,0 +1,16 @@
+Innovators — DravidianCodeMix 2026
+Subtask 2: Tulu Hope Speech
+
+Training samples: 3513
+Validation samples: 753
+Coarse classes: 3
+Fine classes: 5
+Encoder: FacebookAI/xlm-roberta-large
+
+Best validation Coarse Macro-F1: 0.5428
+Best validation Fine Macro-F1: 0.4356
+Best validation Joint Score: 0.4892
+
+Official Macro-F1: 0.4348
+Official Accuracy: 0.5121
+Official rank: 1

@@ -1,0 +1,10 @@
+Innovators — DravidianCodeMix 2026
+Subtask 1: Tamil-English Hate Speech
+
+Training samples: 4255
+Validation samples: 532
+Encoder: FacebookAI/xlm-roberta-large
+Best validation Level-4 Macro-F1: 0.1162
+
+Official overall Macro-F1: 0.4394
+Official rank: 2
