@@ -155,7 +155,7 @@ The CSV files should **not be committed to this repository** unless redistributi
 Clone the repository and install the required Python packages:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Harish-sri-ragunath-V/Innovators-DravidianCodeMix-2026
 cd Innovators-DravidianCodeMix-2026
 pip install -r requirements.txt
 ```
