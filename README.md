@@ -9,7 +9,7 @@ The team participated in three task settings involving hate speech and hope spee
 **Team Name:** Innovators
 
 **Authors:**
-
+* Shudapreyaa R S
 * Harish Sri Ragunath V
 * Jaiyanth T
 * Hari Prasath G
