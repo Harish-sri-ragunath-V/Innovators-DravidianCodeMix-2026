@@ -9,7 +9,10 @@ The team participated in three task settings involving hate speech and hope spee
 **Team Name:** Innovators
 
 **Authors:**
-* Anonymous Authors
+* Shudapreyaa R S
+* Harish Sri Ragunath V
+* Jaiyanth T
+* Hari Prasath G
 
 ## Tasks
 
@@ -152,7 +155,7 @@ The CSV files should **not be committed to this repository** unless redistributi
 Clone the repository and install the required Python packages:
 
 ```bash
-git clone https://anonymous.4open.science/r/Innovators-DravidianCodeMix-2026-52B7
+git clone https://github.com/Harish-sri-ragunath-V/Innovators-DravidianCodeMix-2026
 cd Innovators-DravidianCodeMix-2026
 pip install -r requirements.txt
 ```
@@ -237,7 +240,7 @@ The final paper link will be added after publication/submission.
 
 The source code, training scripts, prediction scripts, and experimental results for all three subtasks are available at:
 
-[GitHub Repository](https://anonymous.4open.science/r/Innovators-DravidianCodeMix-2026-52B7/)
+[GitHub Repository](https://github.com/Harish-sri-ragunath-V/Innovators-DravidianCodeMix-2026)
 
 ## License
 
